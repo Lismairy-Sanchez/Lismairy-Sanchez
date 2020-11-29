@@ -1,4 +1,4 @@
-![alt text](./Readme_Images/AlejadraSanchez.jpeg "Alejandra Sanchez")
+<img src ="./Readme_Images/AlejandraSanchez.jpeg" alt="Alejandra" width ="100 "height =" 60 " />
 
   <h1 align = "center" >Bienvenido</h1>
         <p>
@@ -19,9 +19,9 @@
 -:beer: Nasdrovia: Ecommerce elaborado como evaluación del bootcamp Henry (https: // github .com / Lismairy-Sanchez / Nasdrovia)
    
 
--  RobboStore: Ecommerce elaborado como evaluación del bootcamp Henry. 
+- :robot: RobboStore: Ecommerce elaborado como evaluación del bootcamp Henry. 
 <a href="https://github.com/Lismairy-Sanchez/Robbo-Store" target="_blank">
-![alt text](./Readme_Images/Product_Page.jpeg "Home Page" width =" 70 "height =" 40 ")
+<img src ="./Readme_Images/Product_Page.jpeg" alt="Product_Page" width ="70 "height =" 40 " />
 
 - :desktop_computer: Campus Virtual * * Henry-App ** 
 
