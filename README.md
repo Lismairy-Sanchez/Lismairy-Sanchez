@@ -13,13 +13,13 @@
           recomendaciones con el fin de mejorar mis habilidades y poder
           desempeñarme de mejor manera en el ambito laboral.
         </p>
--:beer: C Ecommerce elaborado como evaluación del bootcamp Henry [Nasdrovia] (https: // github .com / Lismairy-Sanchez / Nasdrovia)
+-:beer: Ecommerce elaborado como evaluación del bootcamp Henry [Nasdrovia] (https: // github .com / Lismairy-Sanchez / Nasdrovia)
     <img src =""alt ="Nasdrovia "width =" 70 "height =" 50 "/ > 
 
 -   Ecommerce elaborado como evaluación del bootcamp Henry [Robbo-Store] (https://github.com/Lismairy-Sanchez/Robbo-Store)
-    <img src ="./Imagenes/Product_Page.jpeg"alt =" RobboStore "width =" 70 "height =" 50 "/ >
+    <img src ="./Imagenes/Product_Page.jpeg" alt =" RobboStore"  width = "70" height = "50"/ >
 
-- :desktop_computer: Campus Virtual * * Henry-App **
+- :desktop_computer: Campus Virtual * * Henry-App ** 
 
 <h3 align = "left"> Conéctate conmigo: </h3>
 <p align = "left">
