@@ -54,4 +54,4 @@
 <!-- 
 <p> <img align ="center" src = "https://github-readme-stats.vercel.app/api?username=lismairy-sanchez&show_icons=true&theme=radical" alt = "lismairy-sanchez" /> </p> -->
 <!-- ![Estadísticas de github](https://github-readme-stats.vercel.app/api?Username=lismairy-sanchez&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
-<p> <img align ="center" src = "https://github-readme-stats.vercel.app/api?Username=lismairy-sanchez&count_private=true&show_icons=true&theme=gruvbox" alt = "lismairy-sanchez" /> </p> 
+<p> <img align ="center" src = "https://github-readme-stats.vercel.app/api?username=lismairy-sanchez&count_private=true&show_icons=true&theme=gruvbox" alt = "lismairy-sanchez" /> </p> 
