@@ -1,24 +1,27 @@
-![alt text](./Readme_Images/AlejadraSanchez.jpeg "Home Page")
+![alt text](./Readme_Images/AlejadraSanchez.jpeg "Alejandra Sanchez")
 
   <h1 align = "center" >Bienvenido</h1>
-        <p class="text-white">
+        <p>
           Es un placer para mi recibirte en mi repositorio, acá encontraras
           proyectos que he llevado a cabo en esto ultimos meses en los que me he
           capacitado como Full Stack; en ellos podras apreciar los conocimientos
           que he obtenido a lo largo de mi formación y mi desempeño al momento
           de trabajar.
         </p>
-        <p class="text-white">
+        <p>
           Es importante mencionar que estoy abierta a sugerencias y
           recomendaciones con el fin de mejorar mis habilidades y poder
           desempeñarme de mejor manera en el ambito laboral.
         </p>
--:beer: Ecommerce elaborado como evaluación del bootcamp Henry [Nasdrovia] (https: // github .com / Lismairy-Sanchez / Nasdrovia)
+
+<h3 align = "left"> Proyectos </h3>
+<br>
+-:beer: Nasdrovia: Ecommerce elaborado como evaluación del bootcamp Henry (https: // github .com / Lismairy-Sanchez / Nasdrovia)
    
 
--   Ecommerce elaborado como evaluación del bootcamp Henry [Robbo-Store] (https://github.com/Lismairy-Sanchez/Robbo-Store)
- 
-![alt text](./Readme_Images/Product_Page.jpeg "Home Page")
+-  RobboStore: Ecommerce elaborado como evaluación del bootcamp Henry. 
+<a href="https://github.com/Lismairy-Sanchez/Robbo-Store" target="_blank">
+![alt text](./Readme_Images/Product_Page.jpeg "Home Page" width =" 70 "height =" 40 ")
 
 - :desktop_computer: Campus Virtual * * Henry-App ** 
 
