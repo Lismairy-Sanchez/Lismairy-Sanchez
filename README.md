@@ -1,4 +1,4 @@
-<img src ="./Readme_Images/AlejandraSanchez.jpeg" alt="Alejandra" width ="100 "height =" 60 " />
+<a href=""><img src ="./Readme_Images/AlejandraSanchez.jpeg" alt="Alejandra" width ="100% "height =" 30% " /></a>
 
   <h1 align = "center" >Bienvenido</h1>
         <p>
@@ -21,7 +21,7 @@
 
 - :robot: RobboStore: Ecommerce elaborado como evaluación del bootcamp Henry. 
 <a href="https://github.com/Lismairy-Sanchez/Robbo-Store" target="_blank">
-<img src ="./Readme_Images/Product_Page.jpeg" alt="Product_Page" width ="100px "height =" 70 px" /></a>
+<img src ="./Readme_Images/Product_Page.jpeg" alt="Product_Page" width ="250px "height =" 150 px" /></a>
 
 - :desktop_computer: Campus Virtual * * Henry-App ** 
 
