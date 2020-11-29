@@ -53,4 +53,4 @@
   <a href="https://reactjs.org/" target="_blank"> <img src ="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt =" react "width =" 40 "height =" 40 "/> </a><a href="https://redux.js.org" target="_blank"> <img src = "https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt =" redux "width =" 40 "height =" 40 "/> </a> </p>
 <!-- 
 <p> <img align ="center" src = "https://github-readme-stats.vercel.app/api?username=lismairy-sanchez&show_icons=true&theme=radical" alt = "lismairy-sanchez" /> </p> -->
-[![Estadísticas de github de Anurag](https://github-readme-stats.vercel.app/api?Username=lismairy-sanchez&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Estadísticas de github de Anurag](https://github-readme-stats.vercel.app/api?Username=lismairy-sanchez&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
