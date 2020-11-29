@@ -1,5 +1,5 @@
- <!-- <img src ="./Imagenes/Alejandra Sanchez.jpeg"alt =" Alejandra "width =" 100 "height =" 40 "/ > -->
-![alt text](./Imagenes/Alejandra Sanchez.jpeg "Home Pag
+ <img src ="./Imagenes/Alejandra Sanchez.jpeg" alt =" Alejandra " width =" 100 " height =" 40 "/ >
+
   <h1 align = "center" >Bienvenido</h1>
         <p class="text-white">
           Es un placer para mi recibirte en mi repositorio, acá encontraras
