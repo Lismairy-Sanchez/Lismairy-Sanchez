@@ -1,6 +1,6 @@
-<a href=""><img src ="./Readme_Images/AlejandraSanchez.jpeg" alt="Alejandra" width ="100% "height =" 30% " /></a>
 
   <h1 align = "center" >Bienvenido</h1>
+  <a href=""><img src ="./Readme_Images/AlejandraSanchez.jpeg" alt="Alejandra" width ="100% "height =" 30% "/></a>
         <p>
           Es un placer para mi recibirte en mi repositorio, acá encontraras
           proyectos que he llevado a cabo en esto ultimos meses en los que me he
@@ -21,7 +21,7 @@
 
 - :robot: RobboStore: Ecommerce elaborado como evaluación del bootcamp Henry. 
 <a href="https://github.com/Lismairy-Sanchez/Robbo-Store" target="_blank">
-<img src ="./Readme_Images/Product_Page.jpeg" alt="Product_Page" width ="250px "height =" 150 px" /></a>
+<img src ="./Readme_Images/Product_Page.jpeg" alt="Product_Page" width ="500px "height =" 150 px" /></a>
 
 - :desktop_computer: Campus Virtual * * Henry-App ** 
 
