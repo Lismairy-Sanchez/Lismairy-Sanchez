@@ -32,9 +32,9 @@
 
 <h3 align = "left"> Conéctate conmigo: </h3>
 <p align = "left">
-<a href = "https://linkedin.com/in/lismairyalejandrasanchezhernandez" target = "blank"> <img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "lismairy alejandra sanchez hernandez" altura = "80"width = "30" /> </a>
+<a href = "https://linkedin.com/in/lismairyalejandrasanchezhernandez" target = "blank"> <img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Lk" width ="80" height="30"/> </a>
 
-<a href = "https://www.instagram.com/alesanchez_1112/" target = "blank"> <img align = "center" src = "hhttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "lismairy alejandra sanchez hernandez" altura = "80"width = "30" /> </a>
+<a href = "https://www.instagram.com/alesanchez_1112/" target = "blank"> <img align = "center" src = "hhttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "inst" width ="80" height="30" /> </a>
 
 </p>
 <br>
