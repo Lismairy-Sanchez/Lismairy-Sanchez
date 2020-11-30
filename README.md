@@ -32,7 +32,10 @@
 
 <h3 align = "left"> Conéctate conmigo: </h3>
 <p align = "left">
-<a href = "https://linkedin.com/in/lismairy alejandra sanchez hernandez" target = "blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt = "lismairy alejandra sanchez hernandez" altura = "30"width = "40" /> </a>
+<a href = "https://linkedin.com/in/lismairyalejandrasanchezhernandez" target = "blank"> <img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "lismairy alejandra sanchez hernandez" altura = "80"width = "30" /> </a>
+
+<a href = "https://www.instagram.com/alesanchez_1112/" target = "blank"> <img align = "center" src = "hhttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "lismairy alejandra sanchez hernandez" altura = "80"width = "30" /> </a>
+
 </p>
 <br>
 <h3 align = "left"> Idiomas y herramientas: </h3>
