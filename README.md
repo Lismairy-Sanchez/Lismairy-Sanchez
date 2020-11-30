@@ -23,7 +23,7 @@
 
 - :beer: Nasdrovia: Ecommerce elaborado como evaluación del bootcamp Henry.
 <a href="https://github.com/Lismairy-Sanchez/Nasdrovia" target="_blank">
-<img align ="center" src ="./Readme_Images/home.png" alt="Product_Page" width ="300px "height ="400 px" /></a>
+<img align ="center" src ="./Readme_Images/home.png" alt="Product_Page" width ="400px "height ="400 px" /></a>
 
    <br>
 
