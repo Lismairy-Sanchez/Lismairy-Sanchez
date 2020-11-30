@@ -20,11 +20,13 @@
 <img align ="center" src ="./Readme_Images/Product_Page.jpeg" alt="Product_Page" width ="300px "height ="400 px" /></a>
 
    <br>
+   <br>
 
 - :beer: Nasdrovia: Ecommerce elaborado como evaluación del bootcamp Henry.
 <a href="https://github.com/Lismairy-Sanchez/Nasdrovia" target="_blank">
-<img align ="center" src ="./Readme_Images/home.png" alt="Product_Page" width ="300px "height ="200 px" /></a>
+<img align ="center" src ="./Readme_Images/home.png" alt="Product_Page" width ="350px "height ="250 px" /></a>
 
+   <br>
    <br>
 
 - :desktop_computer: Campus Virtual \* \* Henry-App \*\*
