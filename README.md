@@ -31,7 +31,7 @@
 
 - :desktop_computer: Henry-App: Campus Virtual elaborado como evaluación final del bootcamp Henry.
   <a href="https://github.com/Lismairy-Sanchez/HenryApp" target="_blank">
-  <img align ="center" src ="./Readme_Images/student.jpeg" alt="Product_Page" width ="350px "height ="250 px" /><
+  <img align ="center" src ="./Readme_Images/student.jpeg" alt="Product_Page" width ="350px "height ="250 px"/></a>
   <br>
 
 <h3 align = "left"> Conéctate conmigo: </h3>
