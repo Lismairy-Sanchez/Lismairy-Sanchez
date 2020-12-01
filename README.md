@@ -1,8 +1,8 @@
   <h1 align = "center" >Bienvenido</h1>
-  <a href=""><img src ="./Readme_Images/AlejandraSanchez.jpeg" alt="Alejandra" width ="100% "height =" 30% "/></a>
+  <img src ="./Readme_Images/AlejandraSanchez.jpeg" alt="Alejandra" width ="100% "height =" 30% "/>
         <p>
           Es un placer para mi recibirte en mi repositorio, acá encontraras
-          proyectos que he llevado a cabo en esto ultimos meses en los que me he
+          proyectos que he llevado a cavo en esto ultimos meses en los que me he
           capacitado como Full Stack; en ellos podras apreciar los conocimientos
           que he obtenido a lo largo de mi formación y mi desempeño al momento
           de trabajar.
