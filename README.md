@@ -33,6 +33,7 @@
   <a href="https://github.com/Lismairy-Sanchez/HenryApp" target="_blank">
   <img align ="center" src ="./Readme_Images/student.jpeg" alt="Home_student" width ="350px" height="250px"/></a>
   <br>
+  <br>
 
 <h3 align = "left"> Conéctate conmigo: </h3>
 <p align = "left">
